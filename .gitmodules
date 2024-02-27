@@ -1,0 +1,9 @@
+[submodule "sklep-database"]
+	path = sklep-database
+	url = https://github.com/SzymonSergiusz/sklep-database
+[submodule "sklep-aplikacja"]
+	path = sklep-aplikacja
+	url = https://github.com/SzymonSergiusz/sklep-aplikacja
+[submodule "sklep-serwer"]
+	path = sklep-serwer
+	url = https://github.com/SzymonSergiusz/sklep-serwer
