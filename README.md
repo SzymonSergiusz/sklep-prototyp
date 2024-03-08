@@ -17,7 +17,7 @@
 - UML - diagrams
 - Postman
 
-_Why such a stack?
+_Why such a stack?_
 
 When choosing a framework to write a server, I decided on [Vapor](https://vapor.codes/) out of sheer curiosity and a desire to learn more about the Swift language. Vapor for many would certainly not be the first choice when Spring or Django are on the market. I was surprised by the clarity of Vapor's documentation and how easy it is to write a server to handle multiple queries.
 Svelte is a relatively new framework and not as popular as React or Angular, but I couldn't resist at the opportunity to test such a [praised framework by other developers] in a project(https://survey.stackoverflow.co/2023/#section-admired-and-desired-web-frameworks-and-technologies).
