@@ -3,7 +3,7 @@
 ## The project is divided into
 - [database project](https://github.com/SzymonSergiusz/sklep-database/tree/dfdea5fe882f436b23b86175ac17a261b9ec5d50)
 - [server](https://github.com/SzymonSergiusz/sklep-serwer/tree/1bbd436025d4e1462de2b168ceb8e18445e5a24d)
-- [aplikacje webową](https://github.com/SzymonSergiusz/sklep-aplikacja/tree/15020cb397332ae19f47288124be975c924422bd)
+- [web application](https://github.com/SzymonSergiusz/sklep-aplikacja/tree/15020cb397332ae19f47288124be975c924422bd)
 ## The purpose of the project
 - to design a database
 - create a server to support REST
