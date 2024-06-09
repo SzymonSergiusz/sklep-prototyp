@@ -15,6 +15,7 @@
 - PostgreSQL - baza danych
 - UML - diagramy
 - Postman
+
 _Dlaczego taki stack?_
 Przy wyborze frameworku do pisania serwera postanowiłem wybrać [Vapor](https://vapor.codes/) z czystej ciekawości oraz chęci poznania języka Swift. Vapor dla wielu na pewno nie byłby pierwszym wyborem, kiedy na rynku jest Spring czy Django. Byłem zaskoczony przejrzystością dokumentacji Vapora oraz z jaką łatwością można napisać serwer do obsługi wielu zapytań.
 Svelte jest relatywnie nowym frameworkiem i nie tak popularnym jak React czy Angular, jednak nie mogłem się oprzeć przy możliwości przetestowania w projekcie tak [zachwalanego frameworku przez innych programistów](https://survey.stackoverflow.co/2023/#section-admired-and-desired-web-frameworks-and-technologies).
